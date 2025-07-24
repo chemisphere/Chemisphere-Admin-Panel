@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1042898914437",
+    "firebase_url": "https://chemisphere-a054a-default-rtdb.firebaseio.com",
+    "project_id": "chemisphere-a054a",
+    "storage_bucket": "chemisphere-a054a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042898914437:android:4b2b2c4a102c91c152edec",
+        "android_client_info": {
+          "package_name": "com.chemispher_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnxPDFagbFjNqAxOwTNcA7MQABQpr22Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042898914437:android:cb3e3f85c31482d452edec",
+        "android_client_info": {
+          "package_name": "com.chemisphere.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnxPDFagbFjNqAxOwTNcA7MQABQpr22Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
